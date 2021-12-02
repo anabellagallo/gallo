@@ -13,7 +13,7 @@
 }
 
 .body {
-  background-image: url("imagenes\bg-tablet-pattern.svg");
+  background-image: url("./imagenes/bg-tablet-pattern.svg");
   background-size: contain;
   background-repeat: no-repeat;
 }
@@ -259,7 +259,7 @@
 
 .seccion-secundaria {
   background-color: #f3613c;
-  background-image: url("imagenes\bg-simplify-section-mobile.svg");
+  background-image: url("./imagenes/bg-simplify-section-mobile.svg");
   background-repeat: no-repeat;
   background-size: contain;
   margin-top: 190px;
@@ -433,7 +433,7 @@
   }
 
   .seccion-secundaria {
-    background-image: url("imagenes\bg-simplify-section-desktop.svg");
+    background-image: url("./imagenes/bg-simplify-section-desktop.svg");
     background-repeat: repeat;
     background-size: cover;
   }
