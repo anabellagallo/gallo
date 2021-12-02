@@ -9,6 +9,7 @@
 .contenedor {
   max-width: 1080px;
   margin: 0 auto;
+  padding: 0 10px;
 }
 
 .body {
@@ -20,7 +21,7 @@
 .header {
   display: flex;
   width: 100%;
-  padding: 20px;
+  padding: 20px 0;
   justify-content: space-between;
   align-items: center;
 }
@@ -140,13 +141,13 @@
 }
 
 #titulo-principal {
-  padding: 5px 15px;
+  padding: 5px 15px 5px 0;
   font-size: 25px;
   text-align: center;
 }
 
 #parrafo-principal {
-  padding: 5px 20px;
+  padding: 5px 20px 5px 0;
   line-height: 25.5px;
   text-align: center;
 }
